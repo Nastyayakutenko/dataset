@@ -1,0 +1,2 @@
+model_type,metric_name,result
+Three-Phase Forecast (Holt-Winters + XGBoost),MAPE,82.92%
